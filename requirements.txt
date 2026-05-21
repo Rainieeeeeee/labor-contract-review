@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+anthropic
+chromadb
+openai
+pdfplumber
+pydantic
+python-dotenv
